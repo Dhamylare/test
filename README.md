@@ -11,6 +11,9 @@ Learning is a journey
   * Try at least 5mins meditation daily
 + Practicalise what you learn
 + Ask for help when needed
+
+## How to create link
+[Link](https://github.com/lilprof01)
   
 ## How to create Table
 | Header 1 | Header 2 | Header 3 |
